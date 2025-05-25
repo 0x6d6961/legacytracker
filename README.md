@@ -7,8 +7,10 @@ Legacy Minecraft Server Tracker in NodeJS, nice web UI with Graphs and hisoric d
 This project is now part of the Legacy Minecraft community! Will be maintaining again.
 
 Links: 
-- https://tracker.johnymuffin.com
-- https://servers.legacyminecraft.com
+- https://legacytracker.org
+
+### update 05/25/2025
+- hi :)
 
 ### Update 08/*/2023
 - Proper player page has been added. :)
